@@ -22,7 +22,7 @@ This project was developed as part of the **2025 NASA Space Apps Challenge**.
 
 ## 🔗 Project Links
 
-* **Live Demo (Lovable)**: [SmartAgroAI Project](https://lovable.dev/projects/65d8db31-ab4f-4b2f-9872-5bbff0ed3bb6)
+* **Live Demo**: [SmartAgroAI Project](https://lovable.dev/projects/65d8db31-ab4f-4b2f-9872-5bbff0ed3bb6)
 * **GitHub Repository**: [SmartAgroInsight](https://github.com/Mbashaliee/SmartAgroInsight)
 
 ---
@@ -67,9 +67,9 @@ Your app will be running locally at:
 
 ## 🌍 Deployment
 
-You can deploy SmartAgroAI directly from **Lovable**:
+You can deploy SmartAgroAI:
 
-1. Open [Lovable Project](https://lovable.dev/projects/65d8db31-ab4f-4b2f-9872-5bbff0ed3bb6)
+1. Open [SmartAgroAI](https://lovable.dev/projects/65d8db31-ab4f-4b2f-9872-5bbff0ed3bb6)
 2. Go to **Share → Publish**
 3. Deploy instantly to a shareable link
 
